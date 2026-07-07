@@ -263,9 +263,9 @@
 - 📖 [**RSS 订阅源汇总完整指南（2026）**](https://xiangyugongzuoliu.com/2025-rss-resource-guide/) — RSS 生态与入门资源
 - 🎬 [**YouTube · Agent 知识库实战**](https://www.youtube.com/@xiangyugongzuoliu) — AI 内容生产线
 
-### 🎓 AI 编程实操课
+### 🎓 AI编程实操课
 
-想系统学习 AI 编程 / Agent 工作流（Claude Code / Codex 实战），可以看翔宇的 AI 编程实操课：
+想系统学习 AI 编程 / Agent 工作流（Claude Code / Codex 实战），可以看翔宇的 AI编程实操课：
 
 - 🇨🇳 **国内版（FlowUS）**：https://flowus.cn/xiangyugongzuoliu/share/d392dcad-b537-44ee-a3e2-56ff5af02bce
 - 🌍 **国际版（Buy Me a Coffee）**：[buymeacoffee.com/xiangyu](https://buymeacoffee.com/xiangyu)
